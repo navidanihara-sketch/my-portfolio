@@ -1,0 +1,31 @@
+# 🌐 Personal Developer Portfolio
+
+A sleek, responsive, modern personal developer portfolio featuring a dark glassmorphism theme, ambient lighting effects, and fluid CSS animations. Deployed live using **GitHub Pages**.
+
+🔗 **Live Demo:** [https://navidanihara-sketch.github.io/my-portfolio/](https://navidanihara-sketch.github.io/my-portfolio/)
+
+---
+
+## 🚀 Built With
+
+- **HTML5:** Semantic, clean structure.
+- **Tailwind CSS:** Modern utility-first styling and glassmorphism UI.
+- **Lucide Icons:** Clean, lightweight vector iconography.
+- **GitHub Pages:** Automated deployment and hosting.
+
+---
+
+## ✨ Features
+
+- **Glassmorphism Aesthetic:** Translucent cards with blurred backdrops and neon accents.
+- **Ambient Glow Animations:** Custom CSS keyframes creating smooth background floating orbs.
+- **Multi-page Architecture:** Dedicated views for About Me, Technical Skills, and Projects.
+- **Fully Responsive:** Optimized across mobile, tablet, and widescreen desktop layouts.
+
+---
+
+## 🛠️ Local Setup
+
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/navidanihara-sketch/my-portfolio.git](https://github.com/navidanihara-sketch/my-portfolio.git)
